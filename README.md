@@ -2,7 +2,7 @@
 
 >[!IMPORTANT]
 >
->You need Java&trade; 21 and Maven 3.9.4+ to build the `main` branch of this project.
+>You need Java&trade; 11 and Maven 3.9.4+ to build the `main` branch of this project.
 
 
 ## Adobe Experience Manager compatibility
